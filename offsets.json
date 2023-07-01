@@ -22,7 +22,7 @@
       "LocalActorPos":"0x128",
       "ComponetToWorld":"0x240",
       "BoneArray":"0x600",
-      "BoneCache":"0x640",
+      "BoneCache":"0x648",
       "Velocity":"0xb8",
       "PawnPrivate":"0x300",
       "PlayerArray":"0x2a0",
