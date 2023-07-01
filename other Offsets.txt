@@ -1,0 +1,6 @@
+#define GWorld 0xea84a78
+#define FNamePool 0xeb03740
+#define GetNameById 0xcaea9c
+#define DecryptAnsi 0x303cbe0
+#define ProjectWorldLocationToScreen 0x775ad9c
+#define EncryptedViewPoint 0xe9ad420
