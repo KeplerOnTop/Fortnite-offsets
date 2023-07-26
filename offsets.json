@@ -25,7 +25,7 @@
       "BoneCache":"0x648",
       "Velocity":"0xb8",
       "PawnPrivate":"0x300",
-      "PlayerArray":"0x2a0",
+      "PlayerArray":"0x2a8",
       "relativelocation":"0x2E8",
       "UCharacterMovementComponent":"0x318",
       "entity_actor":"0x310",
