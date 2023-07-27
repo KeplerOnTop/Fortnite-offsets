@@ -6,8 +6,8 @@
       "LocalPlayers":"0x38",
       "PlayerController":"0x30",
       "LocalPawn":"0x338",
-      "PlayerState":"0x2B0",
-      "RootComponet":"0x190",
+      "PlayerState":"0x2b0",
+      "RootComponet":"0x198",
       "GameState":"0x158",
       "PersistentLevel":"0x30",
       "ActorCount":"0xA0",
@@ -17,7 +17,7 @@
       "Mesh":"0x310",
       "Revivefromdbnotime":"0x46b8",
       "TeamId":"0x10D8",
-      "ActorTeamId":"0x10D8",
+      "ActorTeamId":"0x10C8",
       "IsDBNO":"0x872",
       "LocalActorPos":"0x128",
       "ComponetToWorld":"0x240",
@@ -29,8 +29,8 @@
       "relativelocation":"0x128",
       "UCharacterMovementComponent":"0x318",
       "entity_actor":"0x310",
-      "bIsReloadingWeapon":"0x331",
-      "GlobalAnimRateScale":"0xa58",
+      "bIsReloadingWeapon":"0x358",
+      "GlobalAnimRateScale":"0xA80",
       "CurrentWeapon":"0x948"
    }
 }
