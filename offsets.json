@@ -1,7 +1,7 @@
 {
    "offsets":{
-      "uworld":"0x10E500E8",
-      "ViewPoint":"0x10F90A10",
+      "uworld":"0x10e511c8",
+      "ViewPoint":"0x10f91a10",
       "Gameinstance":"0x1b8",
       "LocalPlayers":"0x38",
       "PlayerController":"0x30",
