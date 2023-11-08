@@ -1,6 +1,6 @@
 {
    "offsets":{
-      "uworld":"0xE93CCD8",
+      "uworld":"0xF16DE38",
       "ViewPoint":"0xE49C7E0",
       "Gameinstance":"0x1b8",
       "LocalPlayers":"0x38",
@@ -16,12 +16,12 @@
       "CurrentActor":"0x8",
       "Mesh":"0x318",
       "Revivefromdbnotime":"0x4b68",
-      "TeamId":"0x10D8",
-      "ActorTeamId":"0x10C8",
+      "TeamId":"0x10e0",
+      "ActorTeamId":"0x10e0",
       "IsDBNO":"0x872",
       "LocalActorPos":"0x128",
       "ComponetToWorld":"0x240",
-      "BoneArray":"0x600",
+      "BoneArray":"0x610",
       "BoneCache":"0x648",
       "Velocity":"0xb8",
       "PawnPrivate":"0x308",
